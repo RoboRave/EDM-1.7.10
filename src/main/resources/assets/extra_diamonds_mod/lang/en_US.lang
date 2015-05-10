@@ -21,7 +21,7 @@ tile.Pink_diamond_Ore.name=Pink Diamond Ore
 tile.Purple_diamond_Ore.name=Purple Diamond Ore
 tile.Red_diamond_Ore.name=Red Diamond Ore
 tile.White_diamond_Ore.name=White Diamond Ore
-tile.Yellow_diamond_Ore.name=Yellow Diamond 
+tile.Yellow_diamond_Ore.name=Yellow Diamond Ore 
 
 #Items
 item.Item_Black_diamond.name=Black Diamond
@@ -89,52 +89,52 @@ item.Yellow_Diamond_Boots.name= Yellow Diamond Boots
 #tools
 item.Black_Diamond_Pick.name=Black Diamond Pickaxe
 item.Black_Diamond_Axe.name=Black Diamond Axe
-item.Black_Diamond_Shovel.name=Black Diamond Shovel
+item.Black_Diamond_Shovel.name=Black Diamond Spade
 item.Black_Diamond_Sword=Black Diamond Sword
 
 item.Blue_Diamond_Pick.name=Blue Diamond Pickaxe
 item.Blue_Diamond_Axe.name=Blue Diamond Axe
-item.Blue_Diamond_Shovel.name=Blue Diamond Shovel
+item.Blue_Diamond_Shovel.name=Blue Diamond Spade
 item.Blue_Diamond_Sword.name=Blue Diamond Sword
 
 item.Gray_Diamond_Pick.name=Gray Diamond Pickaxe
 item.Gray_Diamond_Axe.name=Gray Diamond Axe
-item.Gray_Diamond_Shovel.name=Gray Diamond Shovel
+item.Gray_Diamond_Shovel.name=Gray Diamond Spade
 item.Gray_Diamond_Sword.name=Gray Diamond Sword
 
 item.Green_Diamond_Pick.name=Green Diamond Pickaxe
 item.Green_Diamond_Axe.name=Green Diamond Axe
-item.Green_Diamond_Shovel.name=Green Diamond Shovel
+item.Green_Diamond_Shovel.name=Green Diamond Spade
 item.Green_Diamond_Sword.name=Green Diamond Sword
 
 item.Orange_Diamond_Pick.name=Orange Diamond Pickaxe
 item.Orange_Diamond_Axe.name=Orange Diamond Axe
-item.Orange_Diamond_Shovel.name=Orange Diamond Shovel
+item.Orange_Diamond_Shovel.name=Orange Diamond Spade
 item.Orange_Diamond_Sword.name=Orange Diamond Sword
 
 item.Pink_Diamond_Pick.name=Pink Diamond Pickaxe
 item.Pink_Diamond_Axe.name=Pink Diamond Axe
-item.Pink_Diamond_Shovel.name=Pink Diamond Shovel
+item.Pink_Diamond_Shovel.name=Pink Diamond Spade
 item.Pink_Diamond_Sword.name=Pink Diamond Sword
 
 item.Purple_Diamond_Pick.name=Purple Diamond Pickaxe
 item.Purple_Diamond_Axe.name=Purple Diamond Axe
-item.Purple_Diamond_Shovel.name=Purple Diamond Shovel
+item.Purple_Diamond_Shovel.name=Purple Diamond Spade
 item.Purple_Diamond_Sword.name=Purple Diamond Sword
 
 item.Red_Diamond_Pick.name=Red Diamond Pickaxe
 item.Red_Diamond_Axe.name=Red Diamond Axe
-item.Red_Diamond_Shovel.name=Red Diamond Shovel
+item.Red_Diamond_Shovel.name=Red Diamond Spade
 item.Red_Diamond_Sword.name=Red Diamond Sword
 
 item.White_Diamond_Pick.name=White Diamond Pickaxe
 item.White_Diamond_Axe.name=White Diamond Axe
-item.White_Diamond_Shovel.name=White Diamond Shovel
+item.White_Diamond_Shovel.name=White Diamond Spade
 item.White_Diamond_Sword.name=White Diamond Sword
 
 item.Yellow_Diamond_Pick.name=Yellow Diamond Pickaxe
 item.Yellow_Diamond_Axe.name=Yellow Diamond Axe
-item.Yellow_Diamond_Shovel.name=Yellow Diamond Shovel
+item.Yellow_Diamond_Shovel.name=Yellow Diamond Spade
 item.Yellow_Diamond_Sword.name=Yellow Diamond Sword
 #Messages
 message.outdated=%s is out of date! Please visit %s to get the latest version (%s)

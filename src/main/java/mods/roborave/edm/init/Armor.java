@@ -122,8 +122,6 @@ public class Armor
         YDB= (ItemArmor) new ItemBoots(ClientProxy.Yellow_Diamonds,4,"Yellow").setUnlocalizedName("Yellow_Diamond_Boots").setCreativeTab(EDM.tabEDMArmor);
         
         
-        
-        
         registerArmorSet(BDH,BDC,BDP,BDB);
 		
         registerArmorSet(BLDH,BLDC,BLDP,BLDB);

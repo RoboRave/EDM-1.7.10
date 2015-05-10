@@ -1,0 +1,146 @@
+#Blocks
+tile.Black_diamond_Block.name=Black Diamante Block
+tile.Blue_diamond_Block.name=Blue Diamante Block
+tile.Gold_diamond_Block.name=Gold Diamante Block
+tile.Gray_diamond_Block.name=Gray Diamante Block
+tile.Green_diamond_Block.name=Green Diamante Block
+tile.Orange_diamond_Block.name=Orange Diamante Block
+tile.Pink_diamond_Block.name=Pink Diamante Block
+tile.Purple_diamond_Block.name=Purple Diamante Block
+tile.Red_diamond_Block.name=Red Diamante Block
+tile.White_diamond_Block.name=White Diamante Block
+tile.Yellow_diamond_Block.name=Yellow Diamante Block
+#ore
+tile.Black_diamond_Ore.name=Black Diamante Ore
+tile.Blue_diamond_Ore.name=Blue Diamante Ore
+tile.Gold_diamond_Ore.name=Gold Diamante Ore
+tile.Gray_diamond_Ore.name=Gray Diamante Ore
+tile.Green_diamond_Ore.name=Green Diamante Ore
+tile.Orange_diamond_Ore.name=Orange Diamante Ore
+tile.Pink_diamond_Ore.name=Pink Diamante Ore
+tile.Purple_diamond_Ore.name=Purple Diamante Ore
+tile.Red_diamond_Ore.name=Red Diamante Ore
+tile.White_diamond_Ore.name=White Diamante Ore
+tile.Yellow_diamond_Ore.name=Yellow Diamante Ore 
+
+#Items
+item.Item_Black_diamond.name=Black Diamante
+item.Item_Blue_diamond.name=Blue Diamante
+item.Item_Gold_diamond.name=Gold Diamante
+item.Item_Gray_diamond.name=Gray Diamante
+item.Item_Green_diamond.name=Green Diamante
+item.Item_Orange_diamond.name=Orange Diamante
+item.Item_Pink_diamond.name=Pink Diamante
+item.Item_Purple_diamond.name=Purple Diamante
+item.Item_Red_diamond.name=Red Diamante
+item.Item_White_diamond.name=White Diamante
+item.Item_Yellow_diamond.name=Yellow Diamante
+
+#armor
+item.Black_Diamond_Helm.name= Black Diamante Helmet
+item.Black_Diamond_Chest.name= Black Diamante Chest
+item.Black_Diamond_Pants.name= Black Diamante Pants
+item.Black_Diamond_Boots.name= Black Diamante Boots
+
+item.Blue_Diamond_Helm.name= Blue Diamante Helmet
+item.Blue_Diamond_Chest.name= Blue Diamante Chest
+item.Blue_Diamond_Pants.name= Blue Diamante Pants
+item.Blue_Diamond_Boots.name= Blue Diamante Boots
+
+item.Gray_Diamond_Helm.name= Gray Diamante Helmet
+item.Gray_Diamond_Chest.name= Gray Diamante Chest
+item.Gray_Diamond_Pants.name= Gray Diamante Pants
+item.Gray_Diamond_Boots.name= Gray Diamante Boots
+
+item.Green_Diamond_Helm.name= Green Diamante Helmet
+item.Green_Diamond_Chest.name= Green Diamante Chest
+item.Green_Diamond_Pants.name= Green Diamante Pants
+item.Green_Diamond_Boots.name= Green Diamante Boots
+
+item.Orange_Diamond_Helm.name= Orange Diamante Helmet
+item.Orange_Diamond_Chest.name= Orange Diamante Chest
+item.Orange_Diamond_Pants.name= Orange Diamante Pants
+item.Orange_Diamond_Boots.name= Orange Diamante Boots
+
+item.Pink_Diamond_Helm.name= Pink Diamante Helmet
+item.Pink_Diamond_Chest.name= Pink Diamante Chest
+item.Pink_Diamond_Pants.name= Pink Diamante Pants
+item.Pink_Diamond_Boots.name= Pink Diamante Boots
+
+item.Purple_Diamond_Helm.name= Purple Diamante Helmet
+item.Purple_Diamond_Chest.name= Purple Diamante Chest
+item.Purple_Diamond_Pants.name= Purple Diamante Pants
+item.Purple_Diamond_Boots.name= Purple Diamante Boots
+
+item.Red_Diamond_Helm.name= Red Diamante Helmet
+item.Red_Diamond_Chest.name= Red Diamante Chest
+item.Red_Diamond_Pants.name= Red Diamante Pants
+item.Red_Diamond_Boots.name= Red Diamante Boots
+
+item.White_Diamond_Helm.name= White Diamante Helmet
+item.White_Diamond_Chest.name= White Diamante Chest
+item.White_Diamond_Pants.name= White Diamante Pants
+item.White_Diamond_Boots.name= White Diamante Boots
+
+item.Yellow_Diamond_Helm.name= Yellow Diamante Helmet
+item.Yellow_Diamond_Chest.name= Yellow Diamante Chest
+item.Yellow_Diamond_Pants.name= Yellow Diamante Pants
+item.Yellow_Diamond_Boots.name= Yellow Diamante Boots
+#tools
+item.Black_Diamond_Pick.name=Black Diamante Pickaxe
+item.Black_Diamond_Axe.name=Black Diamante Axe
+item.Black_Diamond_Shovel.name=Black Diamante Spade
+item.Black_Diamond_Sword=Black Diamante Sword
+
+item.Blue_Diamond_Pick.name=Blue Diamante Pickaxe
+item.Blue_Diamond_Axe.name=Blue Diamante Axe
+item.Blue_Diamond_Shovel.name=Blue Diamante Spade
+item.Blue_Diamond_Sword.name=Blue Diamante Sword
+
+item.Gray_Diamond_Pick.name=Gray Diamante Pickaxe
+item.Gray_Diamond_Axe.name=Gray Diamante Axe
+item.Gray_Diamond_Shovel.name=Gray Diamante Spade
+item.Gray_Diamond_Sword.name=Gray Diamante Sword
+
+item.Green_Diamond_Pick.name=Green Diamante Pickaxe
+item.Green_Diamond_Axe.name=Green Diamante Axe
+item.Green_Diamond_Shovel.name=Green Diamante Spade
+item.Green_Diamond_Sword.name=Green Diamante Sword
+
+item.Orange_Diamond_Pick.name=Orange Diamante Pickaxe
+item.Orange_Diamond_Axe.name=Orange Diamante Axe
+item.Orange_Diamond_Shovel.name=Orange Diamante Spade
+item.Orange_Diamond_Sword.name=Orange Diamante Sword
+
+item.Pink_Diamond_Pick.name=Pink Diamante Pickaxe
+item.Pink_Diamond_Axe.name=Pink Diamante Axe
+item.Pink_Diamond_Shovel.name=Pink Diamante Spade
+item.Pink_Diamond_Sword.name=Pink Diamante Sword
+
+item.Purple_Diamond_Pick.name=Purple Diamante Pickaxe
+item.Purple_Diamond_Axe.name=Purple Diamante Axe
+item.Purple_Diamond_Shovel.name=Purple Diamante Spade
+item.Purple_Diamond_Sword.name=Purple Diamante Sword
+
+item.Red_Diamond_Pick.name=Red Diamante Pickaxe
+item.Red_Diamond_Axe.name=Red Diamante Axe
+item.Red_Diamond_Shovel.name=Red Diamante Spade
+item.Red_Diamond_Sword.name=Red Diamante Sword
+
+item.White_Diamond_Pick.name=White Diamante Pickaxe
+item.White_Diamond_Axe.name=White Diamante Axe
+item.White_Diamond_Shovel.name=White Diamante Spade
+item.White_Diamond_Sword.name=White Diamante Sword
+
+item.Yellow_Diamond_Pick.name=Yellow Diamante Pickaxe
+item.Yellow_Diamond_Axe.name=Yellow Diamante Axe
+item.Yellow_Diamond_Shovel.name=Yellow Diamante Spade
+item.Yellow_Diamond_Sword.name=Yellow Diamante Sword
+#Messages
+message.outdated=%s is out of date! Please visit %s to get the latest version (%s)
+message.uptodate=You are using the latest version of %s (%s) so you don't need to updated it
+message.version.help=use this command to find version of %s
+message.error.version=Could not check the version of %s !
+commands.edm.usage=wrong usage:/edm <subcommand>
+edm.message.updatesavailable=Updates are available for %s.
+lang.tran.message=%s

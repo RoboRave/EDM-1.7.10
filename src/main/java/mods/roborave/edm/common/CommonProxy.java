@@ -13,6 +13,7 @@ import cpw.mods.fml.common.FMLCommonHandler;
 public class CommonProxy implements IProxy
 {
 
+	
 	@Override
 	public void PreInit() 
 	{
@@ -22,7 +23,7 @@ public class CommonProxy implements IProxy
 		Recipes.init();
 		
 	}
-
+	
 	@Override
 	public void Init() 
 	{

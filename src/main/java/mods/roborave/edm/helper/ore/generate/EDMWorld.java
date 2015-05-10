@@ -4,6 +4,7 @@ import cpw.mods.fml.common.IWorldGenerator;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 public class EDMWorld {
+	
 	public static void init()
 	{
 		initialiseWorldGen();
