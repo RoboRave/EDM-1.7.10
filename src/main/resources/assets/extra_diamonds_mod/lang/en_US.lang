@@ -136,6 +136,12 @@ item.Yellow_Diamond_Pick.name=Yellow Diamond Pickaxe
 item.Yellow_Diamond_Axe.name=Yellow Diamond Axe
 item.Yellow_Diamond_Shovel.name=Yellow Diamond Spade
 item.Yellow_Diamond_Sword.name=Yellow Diamond Sword
+
+#CreativeTabs
+itemGroup.EDM:Blocks=EDM:Blocks
+itemGroup.EDM:Items=EDM:Items
+itemGroup.EDM:Armor=EDM:Armor
+
 #Messages
 message.outdated=%s is out of date! Please visit %s to get the latest version (%s)
 message.uptodate=You are using the latest version of %s (%s) so you don't need to updated it

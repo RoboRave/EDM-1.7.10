@@ -5,7 +5,9 @@ import mods.roborave.edm.common.CommonProxy;
 import mods.roborave.edm.config.Config;
 import mods.roborave.edm.helper.LogHandler;
 import mods.roborave.edm.helper.VersionChecker;
+import mods.roborave.edm.init.Armor;
 import mods.roborave.edm.init.Blocks;
+import mods.roborave.edm.init.Items;
 import mods.roborave.edm.lib.Strings;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
@@ -21,7 +23,6 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-import mods.roborave.edm.interfaces.IMod;
 
 @Mod(modid = Strings.MODID, name = Strings.name, version = Strings.version, guiFactory="mods.roborave.edm.gui.ConfigGUIFactory")
 //@IMod(id = 1, name = Strings.name)
@@ -55,7 +56,7 @@ public class EDM
         @SideOnly(Side.CLIENT)
         public Item getTabIconItem()
         {
-            return Item.getItemFromBlock(Blocks.getBlock("Blue_diamond_Block"));
+            return Items.OD;
         }
     };
 	public static final CreativeTabs tabEDMArmor = new CreativeTabs(CreativeTabs.getNextID(), "EDM:Armor")
@@ -63,9 +64,16 @@ public class EDM
 		@SideOnly(Side.CLIENT)
 		public Item getTabIconItem()
 		{
-			return Item.getItemFromBlock(Blocks.getBlock("Gray_diamond_Block"));
+			return Armor.GDH;
 		}
 	};
+	
+	public static boolean hardMode;
+	
+	public static boolean test=true;
+	
+	public static String descriptionDEV="turn this on for hard mode which will make the swords unenchanted. WIP";
+	
 	public static Config VersionConfig;
 	
 	public static Configuration Config;

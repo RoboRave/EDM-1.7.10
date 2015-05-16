@@ -1,15 +1,17 @@
 package mods.roborave.edm.config;
 
-import mods.roborave.edm.lib.Strings;
-import net.minecraftforge.common.config.Property;
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Config extends net.minecraftforge.common.config.Configuration 
+import mods.roborave.edm.EDM;
+import mods.roborave.edm.lib.Strings;
+import net.minecraftforge.common.config.Configuration;
+import net.minecraftforge.common.config.Property;
+
+public class Config extends Configuration 
 {
 	public final Property propCheckForUpdates;
 	public final Property propSilenceKnownUpdates;
@@ -19,9 +21,10 @@ public class Config extends net.minecraftforge.common.config.Configuration
 	{
 		super(file);
 
-		this.propCheckForUpdates = get(Strings.CONFIG_CATEGORY_VERCHECK, Strings.CONFIG_CHECKFORUPDATES, true, Strings.CONFIG_CHECKFORUPDATES_DESC);
-		this.propSilenceKnownUpdates = get(Strings.CONFIG_CATEGORY_VERCHECK, Strings.CONFIG_SILENCEKNOWNUPDATES, false, Strings.CONFIG_SILENCEKNOWNUPDATES_DESC);
-		this.propKnownUpdates = get(Strings.CONFIG_CATEGORY_VERCHECK, Strings.CONFIG_KNOWNVERSIONS, new String[0], Strings.CONFIG_KNOWNVERSIONS_DESC);
+		this.propCheckForUpdates = get(Configuration.CATEGORY_GENERAL, Strings.CONFIG_CHECKFORUPDATES, true, Strings.CONFIG_CHECKFORUPDATES_DESC);
+		this.propSilenceKnownUpdates = get(Configuration.CATEGORY_GENERAL, Strings.CONFIG_SILENCEKNOWNUPDATES, false, Strings.CONFIG_SILENCEKNOWNUPDATES_DESC);
+		this.propKnownUpdates = get(Configuration.CATEGORY_GENERAL, Strings.CONFIG_KNOWNVERSIONS, new String[0], Strings.CONFIG_KNOWNVERSIONS_DESC);
+		EDM.hardMode = getBoolean(Configuration.CATEGORY_GENERAL, "HardMode", EDM.test, EDM.descriptionDEV);
 	}
 
 	public boolean checkForUpdates() 
