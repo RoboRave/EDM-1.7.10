@@ -25,7 +25,6 @@ import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
 @Mod(modid = Strings.MODID, name = Strings.name, version = Strings.version, guiFactory="mods.roborave.edm.gui.ConfigGUIFactory")
-//@IMod(id = 1, name = Strings.name)
 public class EDM
 {
 	@SidedProxy
@@ -107,7 +106,7 @@ public class EDM
 		meta.authorList = Arrays.asList("Roborave");
 		meta.modId=Strings.MODID;
 		meta.name=Strings.name;
-		meta.version=Strings.Vers;
+		meta.version=Strings.version;
 		meta.description="EDM";
 		
 		

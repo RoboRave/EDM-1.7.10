@@ -7,6 +7,7 @@ import mods.roborave.edm.init.Items;
 import mods.roborave.edm.init.Recipes;
 import mods.roborave.edm.interfaces.IProxy;
 import mods.roborave.edm.tick.VersionTicker;
+import mods.roborave.edm.tweaker.Tweaker;
 import net.minecraft.world.World;
 import cpw.mods.fml.common.FMLCommonHandler;
 
@@ -21,6 +22,11 @@ public class CommonProxy implements IProxy
 		Items.init();
 		Armor.init();
 		Recipes.init();
+		try {
+			Tweaker.load();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 		
 	}
 	

@@ -5,7 +5,7 @@ import mods.roborave.edm.init.Items;
 import mods.roborave.edm.tweaker.api.IObject;
 import mods.roborave.edm.tweaker.api.RecipeAPI;
 import net.minecraft.item.ItemStack;
-import net.minecraftforge.fml.common.registry.GameRegistry;
+import cpw.mods.fml.common.registry.GameRegistry;
 
 public class RecipesBlocks extends IObject implements RecipeAPI
 {
